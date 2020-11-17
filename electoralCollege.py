@@ -131,7 +131,7 @@ ec_votes_per_state_df['EC Votes'] = list(ec_votes_per_state.values())
 # 2020 STATE WINNERS 
 state_winner = {
     'Alabama':'Trump',
-    'Alaska':'-',
+    'Alaska':'Trump',
     'Arizona':'Biden',
     'Arkansas':'Trump',
     'California':'Biden',
@@ -168,7 +168,7 @@ state_winner = {
     'New Jersey':'Biden',
     'New Mexico':'Biden',
     'New York':'Biden',
-    'North Carolina':'-',
+    'North Carolina':'Trump',
     'North Dakota':'Trump',
     'Ohio':'Trump',
     'Oklahoma':'Trump',
@@ -224,4 +224,4 @@ print(remaining_states.to_string(index=False))
 print('\n')
 
 print('Total Remaining Electoral College Votes: ', remaining_tally)
-print('\n')
+print('\n') 
