@@ -3,7 +3,6 @@ creating a dictionary for use to keep the states' electoral votes straight
 
 '''
 2020 Election Results by State
-------------------------------
                                     State Abbreviation  EC Votes Winner Party
 0                                 Alabama           AL         9  Trump     R
 1                                  Alaska           AK         3  Trump     R
@@ -62,16 +61,13 @@ creating a dictionary for use to keep the states' electoral votes straight
 54                              Wisconsin           WI        10  Biden     D
 55                                Wyoming           WY         3  Trump     R
 
-
 Results
--------
 Total Electoral College Votes:          538
 Electoral College Votes for Biden (D):  290
 Electoral College Votes for Trump (R):  232
 
 
 States Remaining:
------------------
    State  EC Votes
  Georgia        16
 
