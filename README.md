@@ -2,6 +2,7 @@
 creating a dictionary for use to keep the states' electoral votes straight
 
 '''
+
 2020 Election Results by State
                                     State Abbreviation  EC Votes Winner Party
 0                                 Alabama           AL         9  Trump     R
@@ -73,4 +74,5 @@ States Remaining:
 
 
 Total Remaining Electoral College Votes:  16
+
 '''
