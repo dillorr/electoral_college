@@ -1,7 +1,7 @@
 # electoral_college
 creating a dictionary for use to keep the states' electoral votes straight
 
-'''text
+'''
 2020 Election Results by State
 ------------------------------
                                     State Abbreviation  EC Votes Winner Party
